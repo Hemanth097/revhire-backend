@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: hemanthrevhirebackend 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hemanthrevhirebackend
+  template:
+    metadata:
+      labels:
+        app: hemanthrevhirebackend 
+    spec:
+      containers:
+        - name: hemanthrevhirebackend 
+          image: revhireacr.azurecr.io/hemanthrevhirebackend
+          ports:
+          - containerPort: 8081
