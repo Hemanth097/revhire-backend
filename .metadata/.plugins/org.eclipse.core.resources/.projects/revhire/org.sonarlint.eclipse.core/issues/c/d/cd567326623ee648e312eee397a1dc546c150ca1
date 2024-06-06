@@ -1,0 +1,4 @@
+
+…	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e8701ad48ba05a91604e480dd60899a3h
+„	java:S116"QRename this field "job_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d697ea3869422ce3c7cc1889264d03c7h
+ˆ	java:S116"URename this field "applied_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 729c91fcc7dee36661c24d3500ad7351h

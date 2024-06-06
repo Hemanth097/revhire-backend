@@ -1,0 +1,11 @@
+
+•
+java:S1192J"aDefine a constant instead of duplicating this literal "Unable to get Application record" 3 times.b ca9a7bfe656862c5d17810d184c6e82ah
+`
+java:S1172P",Remove this unused method parameter "jobId".b 7143244908eefa9a01f826fcd8ecb03dh
+_
+java:S1168Q"+Return an empty collection instead of null.b 37a6259cc0c1dae299a7866489dff0bdh
+Š
+java:S1612m"VReplace this lambda with method reference 'this::mapApplicationToApplicationResponse'.b b4d414045ddc319a7da99472065d3b35h
+Š
+java:S1612z"VReplace this lambda with method reference 'this::mapApplicationToApplicationResponse'.b b4d414045ddc319a7da99472065d3b35h

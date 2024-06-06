@@ -1,0 +1,5 @@
+
+ˆ	java:S116"URename this field "creator_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 3700153ca2c4f82a70c2a7b4666fa643h
+Š	java:S116"WRename this field "company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b c1007e8ab1238e90f79100fbfff39635h
+‡	java:S116"TRename this field "logo_link" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 097de5b6b248e022d36bccb209966144h
+ˆ	java:S116"URename this field "created_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6d10fce54e8921838cab3a6ef3e23061h
