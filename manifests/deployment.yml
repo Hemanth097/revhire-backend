@@ -16,4 +16,4 @@ spec:
         - name: hemanthrevhirebackend 
           image: revhireacr.azurecr.io/hemanthrevhirebackend
           ports:
-          - containerPort: 8081
+          - containerPort: 8082
